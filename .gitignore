@@ -4,3 +4,7 @@ experiment_1/*
 exp*
 .ipynb_checkpoints/*
 .DS_Store
+model*
+CSVs/*
+*.pkl
+*.npy
